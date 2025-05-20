@@ -1,0 +1,25 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "demo",
+  "keywords": [
+    "chat",
+    "app",
+    "demo"
+  ],
+  "homepage": "https://github.com/lucia-zhy/interactive_chat_app_demo#readme",
+  "bugs": {
+    "url": "https://github.com/lucia-zhy/interactive_chat_app_demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucia-zhy/interactive_chat_app_demo.git"
+  },
+  "license": "ISC",
+  "author": "Lucia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
