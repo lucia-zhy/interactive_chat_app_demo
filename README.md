@@ -1,5 +1,3 @@
-# testing
+# Chat App Demo
 
-Just testing...
-
-stay tuned with future updates
+For me to learn React & Interactive React
